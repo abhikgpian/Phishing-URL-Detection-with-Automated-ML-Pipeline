@@ -16,10 +16,10 @@ Generated structured prediction outputs in both CSV and HTML formats, improving 
 
 ## Getting Started
 ### Prerequisites:-
-1.Python 3.8+
-2.MongoDB instance (local or cloud)
-3.FastAPI
-4.Relevant Python libraries (see requirements.txt)
+####  1.Python 3.8+
+####  2.MongoDB instance (local or cloud)
+####  3.FastAPI
+####  4.Relevant Python libraries (see requirements.txt)
 
 ## Installation
 ### 1.Clone the repository:git clone https://github.com/yourusername/phishing-url-detection.gitcd phishing-url-detection
