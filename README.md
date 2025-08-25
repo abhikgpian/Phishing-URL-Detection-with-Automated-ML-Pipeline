@@ -1,0 +1,2 @@
+## Phishing URL Detection with Automated ML Pipeline
+Welcome to the Phishing URL Detection project! This repository implements a robust and scalable automated machine learning pipeline designed to detect phishing and malicious URLs with high precision. Built for efficiency and scalability, this solution integrates advanced data processing, machine learning, and API services to streamline threat detection workflows.
