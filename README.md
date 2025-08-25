@@ -22,7 +22,7 @@ Generated structured prediction outputs in both CSV and HTML formats, improving 
 ####  4.Relevant Python libraries (see requirements.txt)
 
 ## Installation
-### 1.Clone the repository:git clone https://github.com/yourusername/phishing-url-detection.gitcd phishing-url-detection
+### 1.Clone the repository:[git clone https://github.com/yourusername/phishing-url-detection.gitcd phishing-url-detection](https://github.com/abhikgpian/Phishing-URL-Detection-with-Automated-ML-Pipeline.git)
 ### 2.Install dependencies:pip install -r requirements.txt
 ### 3.Set up MongoDB and update connection details in config.py.
 
